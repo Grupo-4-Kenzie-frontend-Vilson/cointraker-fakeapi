@@ -13,13 +13,13 @@
     {
       "coin": "eth",
       "amount": 1.3,
-      "userId": 2,
+      "userId": 1,
       "id": 1
     },
     {
       "coin": "BTC",
       "amount": 0.8,
-      "userId": 2,
+      "userId": 1,
       "id": 3
     }
   ]
