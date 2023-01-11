@@ -4,20 +4,21 @@
       "email": "1234@gmail.com",
       "password": "$2a$10$fB7ckoPo3boZLlOV63lVTuIwYNXTSGTt4VmtICBkNckEpM/kK2zRO",
       "name": "test2",
-      "age": "202",
       "phone": "12345678",
       "id": 1
     }
   ],
   "assets": [
     {
-      "coin": "eth",
+      "coin": "ETH",
+      "coinId": "razxDUgYGNAdQ",
       "amount": 1.3,
       "userId": 1,
       "id": 1
     },
     {
       "coin": "BTC",
+      "coinId": "Qwsogvtv82FCd",
       "amount": 0.8,
       "userId": 1,
       "id": 3
