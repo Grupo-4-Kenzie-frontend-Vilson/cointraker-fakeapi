@@ -19,9 +19,37 @@
     {
       "coin": "BTC",
       "coinId": "Qwsogvtv82FCd",
-      "amount": 0.8,
+      "amount": 0.2,
       "userId": 1,
       "id": 3
+    },
+    {
+      "coin": "LINK",
+      "coinId": "VLqpJwogdhHNb",
+      "amount": 120,
+      "userId": 1,
+      "id": 20
+    },
+    {
+      "coin": "BNB",
+      "coinId": "WcwrkfNI4FUAe",
+      "amount": 20,
+      "userId": 1,
+      "id": 21
+    },
+    {
+      "coin": "DOGE",
+      "coinId": "a91GCGd_u96cF",
+      "amount": 208020,
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "coin": "BUSD",
+      "coinId": "vSo2fu9iE1s0Y",
+      "amount": 1039,
+      "userId": 1,
+      "id": 23
     }
   ]
 }
